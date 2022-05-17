@@ -1,2 +1,2 @@
 my frist readme
-requesting update
+requesting updates
